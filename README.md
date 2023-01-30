@@ -1,5 +1,6 @@
-##How Does a Bike-Share Navigate Speedy Success
-This project is the Capstone Project for the Google Data Analytics course. I followed the Google Data Analytics workflow that will be shown below
+## How Does a Bike-Share Navigate Speedy Success
+
+This project is the Capstone Project for the Google Data Analytics course. I followed the Google Data Analytics workflow that will be shown below. I specifically used only Excel in this project. 
 
 #Ask
 - Question: How do annual members and casual riders use Cyclistic bikes differently?
